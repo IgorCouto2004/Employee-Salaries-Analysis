@@ -6,7 +6,7 @@ Foi vizualizado: a frequência e distribuição das categorias, estatísticas de
 **Principais Resultados:**
 
 **Cargos mais bem remunerados:**
-Data Scientist e Data Engineer lideram, com salários significativamente mais altos.
+*Data Scientist e Data Engineer lideram, com salários significativamente mais altos.*
  
 **Experiência predominante:**
 *Nível Sênior é o mais frequente (média de 6 anos de experiência).*
