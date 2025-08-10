@@ -15,7 +15,7 @@ Foi vizualizado: a frequência e distribuição das categorias, estatísticas de
 *Empresas de porte médio oferecem os salários mais altos.*
 
 **Faixa salarial anual:**
-*Média global entre US$ 100.000 e US$ 150.000.*
+*Os top 10 países pagam em média entre US$ 100.000 e US$ 150.000.*
 
 
 
